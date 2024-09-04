@@ -1,0 +1,11 @@
+dataset/
+
+checkpoints/
+
+**/__pycache__
+
+.vscode/
+
+log.txt
+
+results/
